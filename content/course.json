@@ -1,0 +1,278 @@
+{
+  "chapters": [
+    {
+      "id": "wiki/chapters/crystals",
+      "number": 1,
+      "title": "晶体结构",
+      "start": 1,
+      "end": 2,
+      "description": "晶格、基元、原胞与对称性"
+    },
+    {
+      "id": "wiki/chapters/reciprocal",
+      "number": 2,
+      "title": "倒格子与衍射",
+      "start": 3,
+      "end": 5,
+      "description": "倒空间、布里渊区与衍射条件"
+    },
+    {
+      "id": "wiki/chapters/bonding",
+      "number": 3,
+      "title": "晶体结合与弹性",
+      "start": 6,
+      "end": 7,
+      "description": "结合能、势能曲率与弹性"
+    },
+    {
+      "id": "wiki/chapters/phonons",
+      "number": 4,
+      "title": "晶格振动与声子",
+      "start": 8,
+      "end": 10,
+      "description": "色散关系、简正模与声子"
+    },
+    {
+      "id": "wiki/chapters/thermal",
+      "number": 5,
+      "title": "晶格热学性质",
+      "start": 11,
+      "end": 12,
+      "description": "Einstein、Debye 模型与热容"
+    },
+    {
+      "id": "wiki/chapters/electrons",
+      "number": 6,
+      "title": "自由电子费米气体",
+      "start": 13,
+      "end": 15,
+      "description": "Drude 模型、态计数与费米统计"
+    },
+    {
+      "id": "wiki/chapters/bands",
+      "number": 7,
+      "title": "能带",
+      "start": 16,
+      "end": 19,
+      "description": "Bloch 定理、带隙与有效质量"
+    },
+    {
+      "id": "wiki/chapters/semiconductors",
+      "number": 8,
+      "title": "半导体",
+      "start": 20,
+      "end": 21,
+      "description": "载流子、杂质与费米能级"
+    },
+    {
+      "id": "wiki/chapters/fermi-surface",
+      "number": 9,
+      "title": "费米面与金属",
+      "start": 22,
+      "end": 22,
+      "description": "等能面与金属电子态"
+    },
+    {
+      "id": "wiki/chapters/superconductivity",
+      "number": 10,
+      "title": "超导与抗磁顺磁概览",
+      "start": 23,
+      "end": 23,
+      "description": "超导现象与普通磁响应"
+    },
+    {
+      "id": "wiki/chapters/magnetism",
+      "number": 11,
+      "title": "铁磁与反铁磁",
+      "start": 24,
+      "end": 24,
+      "description": "交换、磁有序与子晶格"
+    },
+    {
+      "id": "wiki/chapters/optics",
+      "number": 12,
+      "title": "固体光学重点",
+      "start": 25,
+      "end": 26,
+      "description": "光学常数、晶格光学与极化激元"
+    },
+    {
+      "id": "wiki/chapters/review",
+      "number": 13,
+      "title": "综合训练与复习",
+      "start": 27,
+      "end": 28,
+      "description": "建立结构、振动与电子性质之间的联系"
+    }
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "title": "晶体结构与课程导入",
+      "hours": 2,
+      "goal": "区分晶格、基元与原胞"
+    },
+    {
+      "number": 2,
+      "title": "常见晶体结构与对称性",
+      "hours": 2,
+      "goal": "选择原胞并识别常见结构"
+    },
+    {
+      "number": 3,
+      "title": "倒格子与布里渊区",
+      "hours": 2,
+      "goal": "构造倒格子并画第一布里渊区"
+    },
+    {
+      "number": 4,
+      "title": "衍射与布拉格条件",
+      "hours": 2,
+      "goal": "连接散射矢量和晶面间距"
+    },
+    {
+      "number": 5,
+      "title": "结构因子与消光",
+      "hours": 2,
+      "goal": "区分几何衍射条件与基元干涉"
+    },
+    {
+      "number": 6,
+      "title": "晶体结合",
+      "hours": 2,
+      "goal": "用能量描述结合与平衡"
+    },
+    {
+      "number": 7,
+      "title": "弹性与长波声速",
+      "hours": 2,
+      "goal": "联系势能曲率、弹性和运动"
+    },
+    {
+      "number": 8,
+      "title": "单原子链与色散",
+      "hours": 2,
+      "goal": "从运动方程推导色散"
+    },
+    {
+      "number": 9,
+      "title": "双原子链与振动分支",
+      "hours": 2,
+      "goal": "区分声学和光学分支"
+    },
+    {
+      "number": 10,
+      "title": "简正模与声子",
+      "hours": 2,
+      "goal": "从集体振动过渡到量子激发"
+    },
+    {
+      "number": 11,
+      "title": "Einstein模型与热容",
+      "hours": 2,
+      "goal": "用量子振子解释热容温度变化"
+    },
+    {
+      "number": 12,
+      "title": "Debye模型与低温热容",
+      "hours": 2,
+      "goal": "进行三维声子态计数"
+    },
+    {
+      "number": 13,
+      "title": "Drude模型与输运",
+      "hours": 2,
+      "goal": "解释弛豫时间近似及其局限"
+    },
+    {
+      "number": 14,
+      "title": "费米球与电子态计数",
+      "hours": 2,
+      "goal": "由密度计算费米波矢与费米能"
+    },
+    {
+      "number": 15,
+      "title": "电子热容与经典模型局限",
+      "hours": 2,
+      "goal": "理解费米面附近的热激发"
+    },
+    {
+      "number": 16,
+      "title": "Bloch定理",
+      "hours": 2,
+      "goal": "从平移对称性解释波函数形式"
+    },
+    {
+      "number": 17,
+      "title": "近自由电子与带隙",
+      "hours": 2,
+      "goal": "用简并态耦合解释开隙"
+    },
+    {
+      "number": 18,
+      "title": "紧束缚模型",
+      "hours": 2,
+      "goal": "联系原子轨道与能带宽度"
+    },
+    {
+      "number": 19,
+      "title": "有效质量与能带动力学",
+      "hours": 2,
+      "goal": "从能带斜率和曲率解释运动"
+    },
+    {
+      "number": 20,
+      "title": "本征半导体",
+      "hours": 2,
+      "goal": "说明电子空穴及本征载流子"
+    },
+    {
+      "number": 21,
+      "title": "杂质半导体",
+      "hours": 2,
+      "goal": "联系杂质、电中性与费米能级"
+    },
+    {
+      "number": 22,
+      "title": "费米面与金属",
+      "hours": 2,
+      "goal": "绘制等能轮廓并解释填充"
+    },
+    {
+      "number": 23,
+      "title": "超导与抗磁顺磁概览",
+      "hours": 2,
+      "goal": "区分超导现象与普通抗磁、顺磁响应"
+    },
+    {
+      "number": 24,
+      "title": "铁磁与反铁磁",
+      "hours": 2,
+      "goal": "联系交换与自发有序"
+    },
+    {
+      "number": 25,
+      "title": "固体光学一 光学常数与电子跃迁",
+      "hours": 2,
+      "goal": "联系介电响应、反射吸收与带间跃迁"
+    },
+    {
+      "number": 26,
+      "title": "固体光学二 晶格光学与极化激元",
+      "hours": 2,
+      "goal": "连接光学声子、极化和耦合传播模"
+    },
+    {
+      "number": 27,
+      "title": "跨章节综合训练",
+      "hours": 2,
+      "goal": "围绕材料问题建立模型链，含光学综合题"
+    },
+    {
+      "number": 28,
+      "title": "课程复习与形成性评价",
+      "hours": 2,
+      "goal": "检验核心概念和推导的迁移"
+    }
+  ]
+}

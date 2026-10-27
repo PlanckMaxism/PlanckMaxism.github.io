@@ -1,0 +1,178 @@
+[
+  {
+    "id": "home",
+    "title": "首页",
+    "route": "index.html",
+    "group": "home",
+    "file": "content/home.md",
+    "kind": "home"
+  },
+  {
+    "id": "about",
+    "title": "个人简介",
+    "route": "about/index.html",
+    "group": "about",
+    "file": "content/about.md",
+    "kind": "article"
+  },
+  {
+    "id": "research",
+    "title": "研究方向",
+    "route": "research/index.html",
+    "group": "research",
+    "file": "content/research.md",
+    "kind": "article"
+  },
+  {
+    "id": "publications",
+    "title": "论文与成果",
+    "route": "publications/index.html",
+    "group": "research",
+    "file": "content/publications.md",
+    "kind": "article"
+  },
+  {
+    "id": "course",
+    "title": "固体物理",
+    "route": "teaching/solid-state/index.html",
+    "group": "course",
+    "file": "content/course.md",
+    "kind": "course"
+  },
+  {
+    "id": "wiki",
+    "title": "课程 Wiki",
+    "route": "teaching/solid-state/wiki/index.html",
+    "group": "wiki",
+    "file": "content/wiki.md",
+    "kind": "wiki"
+  },
+  {
+    "id": "wiki/chapters/crystals",
+    "title": "晶体结构",
+    "route": "teaching/solid-state/wiki/crystals/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/crystals.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/reciprocal",
+    "title": "倒格子与衍射",
+    "route": "teaching/solid-state/wiki/reciprocal/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/reciprocal.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/bonding",
+    "title": "晶体结合与弹性",
+    "route": "teaching/solid-state/wiki/bonding/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/bonding.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/phonons",
+    "title": "晶格振动与声子",
+    "route": "teaching/solid-state/wiki/phonons/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/phonons.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/thermal",
+    "title": "晶格热学性质",
+    "route": "teaching/solid-state/wiki/thermal/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/thermal.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/electrons",
+    "title": "自由电子费米气体",
+    "route": "teaching/solid-state/wiki/electrons/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/electrons.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/bands",
+    "title": "能带",
+    "route": "teaching/solid-state/wiki/bands/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/bands.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/semiconductors",
+    "title": "半导体",
+    "route": "teaching/solid-state/wiki/semiconductors/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/semiconductors.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/fermi-surface",
+    "title": "费米面与金属",
+    "route": "teaching/solid-state/wiki/fermi-surface/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/fermi-surface.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/superconductivity",
+    "title": "超导与抗磁顺磁概览",
+    "route": "teaching/solid-state/wiki/superconductivity/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/superconductivity.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/magnetism",
+    "title": "铁磁与反铁磁",
+    "route": "teaching/solid-state/wiki/magnetism/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/magnetism.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/optics",
+    "title": "固体光学重点",
+    "route": "teaching/solid-state/wiki/optics/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/optics.md",
+    "kind": "article"
+  },
+  {
+    "id": "wiki/chapters/review",
+    "title": "综合训练与复习",
+    "route": "teaching/solid-state/wiki/review/index.html",
+    "group": "wiki",
+    "file": "content/wiki/chapters/review.md",
+    "kind": "article"
+  },
+  {
+    "id": "syllabus",
+    "title": "教学进度",
+    "route": "teaching/solid-state/syllabus/index.html",
+    "group": "wiki",
+    "file": "content/syllabus.md",
+    "kind": "article"
+  },
+  {
+    "id": "concepts",
+    "title": "概念索引",
+    "route": "teaching/solid-state/wiki/concepts/index.html",
+    "group": "wiki",
+    "file": "content/concepts.md",
+    "kind": "article"
+  },
+  {
+    "id": "resources",
+    "title": "学习资源",
+    "route": "teaching/solid-state/resources/index.html",
+    "group": "wiki",
+    "file": "content/resources.md",
+    "kind": "article"
+  }
+]
